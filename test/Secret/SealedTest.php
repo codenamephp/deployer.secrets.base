@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace de\codenamephp\deployer\secrets\base\test\Secret;
+namespace de\codenamephp\platform\secretsManager\base\test\Secret;
 
-use de\codenamephp\deployer\secrets\base\Secret\Sealed;
+use de\codenamephp\platform\secretsManager\base\Secret\Sealed;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 

@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace de\codenamephp\deployer\secrets\base\Secret;
+namespace de\codenamephp\platform\secretsManager\base\Secret;
 
 
 /**

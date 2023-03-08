@@ -1,9 +1,9 @@
 <?php declare(strict_types=1);
 
-namespace de\codenamephp\deployer\secrets\base\Client;
+namespace de\codenamephp\platfrom\secretsManager\base\Client;
 
-use de\codenamephp\deployer\secrets\base\Secret\Payload\PayloadInterface;
-use de\codenamephp\deployer\secrets\base\Secret\SecretInterface;
+use de\codenamephp\platform\secretsManager\base\Secret\Payload\PayloadInterface;
+use de\codenamephp\platform\secretsManager\base\Secret\SecretInterface;
 
 /**
  * Interface for a common client that fetches payloads (since the payload is what we care about here)

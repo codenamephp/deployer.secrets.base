@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace de\codenamephp\deployer\secrets\base\test\Secret\Payload;
+namespace de\codenamephp\platform\secretsManager\base\test\Secret\Payload;
 
-use de\codenamephp\deployer\secrets\base\Secret\Payload\Sealed;
+use de\codenamephp\platform\secretsManager\base\Secret\Payload\Sealed;
 use PHPUnit\Framework\TestCase;
 
 final class SealedTest extends TestCase {

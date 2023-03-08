@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace de\codenamephp\deployer\secrets\base\Secret\Payload;
+namespace de\codenamephp\platform\secretsManager\base\Secret\Payload;
 
 /**
  * Interface for a payload of a secret. Contains the content as string and checksums

@@ -1,5 +1,5 @@
 {
-  "name": "codenamephp/deployer.secrets.base",
+  "name": "codenamephp/platform.secretsmanager.base",
   "description": "",
   "type": "library",
   "license": "Apache-2.0",
@@ -14,14 +14,14 @@
   },
   "autoload": {
     "psr-4": {
-      "de\\codenamephp\\deployer\\secrets\\base\\": [
+      "de\\codenamephp\\platform\\secretsManager\\base\\": [
         "src"
       ]
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "de\\codenamephp\\deployer\\secrets\\base\\test\\": [
+      "de\\codenamephp\\platform\\secretsManager\\base\\test\\": [
         "test"
       ]
     }

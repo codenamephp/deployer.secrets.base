@@ -1,8 +1,8 @@
 <?php declare(strict_types=1);
 
-namespace de\codenamephp\deployer\secrets\base\Secret;
+namespace de\codenamephp\platform\secretsManager\base\Secret;
 
-use de\codenamephp\deployer\secrets\base\Secret\Payload\PayloadInterface;
+use de\codenamephp\platform\secretsManager\base\Secret\Payload\PayloadInterface;
 
 /**
  * Interface for a secret that has a payload
