@@ -8,8 +8,13 @@
 ![Packagist Downloads](https://img.shields.io/packagist/dt/codenamephp/deployer.secrets.base)
 ![GitHub](https://img.shields.io/github/license/codenamephp/deployer.secrets.base)
 
+A base package to provide common interface for secret manager integration with the intent to make them easily exchangeable.
+
 ## Installation
 
 Easiest way is via composer. Just run `composer require codenamephp/deployer.secrets.base` in your cli which should install the latest version for you.
 
 ## Usage
+
+This package provides the basic interfaces for secrets, payloads and a client. Use this package in your actual implementation and
+just build implementations against services.
