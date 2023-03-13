@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace de\codenamephp\platfrom\secretsManager\base\Client;
+namespace de\codenamephp\platform\secretsManager\base\Client;
 
 use de\codenamephp\platform\secretsManager\base\Secret\Payload\PayloadInterface;
 use de\codenamephp\platform\secretsManager\base\Secret\SecretInterface;
