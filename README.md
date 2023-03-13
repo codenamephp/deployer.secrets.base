@@ -1,4 +1,4 @@
-# deployer.secrets.base
+# platform.secretsManager.base
 
 ![Packagist Version](https://img.shields.io/packagist/v/codenamephp/deployer.secrets.base)
 ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/codenamephp/deployer.secrets.base)
@@ -12,7 +12,7 @@ A base package to provide common interface for secret manager integration with t
 
 ## Installation
 
-Easiest way is via composer. Just run `composer require codenamephp/deployer.secrets.base` in your cli which should install the latest version for you.
+Easiest way is via composer. Just run `composer require codenamephp/platform.secretsmanager.base` in your cli which should install the latest version for you.
 
 ## Usage
 
