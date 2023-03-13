@@ -7,6 +7,7 @@
 **Fixed bugs:**
 
 - Update/workflow version [\#3](https://github.com/codenamephp/platform.secretsManager.base/pull/3) ([bastianschwarz](https://github.com/bastianschwarz))
+- Fixed a typo in namespace [\#2](https://github.com/codenamephp/platform.secretsManager.base/pull/2) ([bastianschwarz](https://github.com/bastianschwarz))
 
 ## [1.0.0](https://github.com/codenamephp/platform.secretsManager.base/tree/1.0.0) (2023-03-08)
 
