@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/codenamephp/platform.secretsManager.base/tree/1.0.1) (2023-03-13)
+
+[Full Changelog](https://github.com/codenamephp/platform.secretsManager.base/compare/1.0.0...1.0.1)
+
+**Fixed bugs:**
+
+- Update/workflow version [\#3](https://github.com/codenamephp/platform.secretsManager.base/pull/3) ([bastianschwarz](https://github.com/bastianschwarz))
+
 ## [1.0.0](https://github.com/codenamephp/platform.secretsManager.base/tree/1.0.0) (2023-03-08)
 
 [Full Changelog](https://github.com/codenamephp/platform.secretsManager.base/compare/107b249ca31e58ee67f548d814c0d8b299e88705...1.0.0)
