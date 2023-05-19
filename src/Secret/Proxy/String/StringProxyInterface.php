@@ -10,7 +10,6 @@ use Stringable;
  *
  * Implementations should hold a client and a secret and fetch the payload once when it is needed and cache it.
  */
-interface StringProxyInterface extends SecretInterface, Stringable
-{
+interface StringProxyInterface extends SecretInterface, Stringable {
 
 }
