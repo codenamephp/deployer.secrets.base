@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/codenamephp/platform.secretsManager.base/tree/1.1.0) (2023-05-19)
+
+[Full Changelog](https://github.com/codenamephp/platform.secretsManager.base/compare/1.0.1...1.1.0)
+
+**Implemented enhancements:**
+
+- Feature: Proxy for Secrets [\#4](https://github.com/codenamephp/platform.secretsManager.base/pull/4) ([bastianschwarz](https://github.com/bastianschwarz))
+
 ## [1.0.1](https://github.com/codenamephp/platform.secretsManager.base/tree/1.0.1) (2023-03-13)
 
 [Full Changelog](https://github.com/codenamephp/platform.secretsManager.base/compare/1.0.0...1.0.1)
