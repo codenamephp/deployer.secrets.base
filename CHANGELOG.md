@@ -1,10 +1,10 @@
 # Changelog
 
-## [1.1.1](https://github.com/codenamephp/platform.secretsManager.base/tree/1.1.1) (2023-09-05)
+## [1.2.0](https://github.com/codenamephp/platform.secretsManager.base/tree/1.2.0) (2023-09-05)
 
-[Full Changelog](https://github.com/codenamephp/platform.secretsManager.base/compare/1.1.0...1.1.1)
+[Full Changelog](https://github.com/codenamephp/platform.secretsManager.base/compare/1.1.0...1.2.0)
 
-**Merged pull requests:**
+**Implemented enhancements:**
 
 - Lazy factory that builds client only when needed [\#5](https://github.com/codenamephp/platform.secretsManager.base/pull/5) ([bastianschwarz](https://github.com/bastianschwarz))
 
